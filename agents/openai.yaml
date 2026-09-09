@@ -1,0 +1,4 @@
+interface:
+  display_name: "三维拆件与补洞"
+  short_description: "跨 Windows 与 macOS 的通用网格拆件、补洞与过程图工作流"
+  default_prompt: "使用 $mesh-split-fill 处理这个模型，先固定完整拆件清单、接缝策略和过程图方案，再验证样件并批量执行。"
