@@ -12,6 +12,16 @@
 
 ## 安装
 
+### 一句话安装（推荐）
+
+把下面这句话复制给 Codex，无需填写网址：
+
+> 请从 GitHub 的 WentianYi2025/mesh-split-fill 仓库安装这个 Codex skill，并验证安装结果。
+
+写明 GitHub 用户名和仓库名，可以避免搜索到同名项目。
+
+### 手动安装
+
 下载本仓库中的 `mesh-split-fill-v1.0.0.zip` 并解压，运行：
 
 ```text
